@@ -1,2 +1,3 @@
 # Leslie_Simulator
-Electronic design project commissioned by jayluo1 (Fiverr)
+
+Electronic design project in Kicad commissioned by jayluo1 (Fiverr)
